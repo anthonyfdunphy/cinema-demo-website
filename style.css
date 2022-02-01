@@ -30,8 +30,10 @@ body {
 }
 
 .logo {
-  font-size: 30px;
-  color: #ff1010;
+  background-image: url(/img/resize-ucd-cinema.png);
+  background-repeat: no-repeat;
+  width: 250px;
+  height: 60px;
 }
 
 .menu-container {
@@ -101,12 +103,13 @@ body {
 }
 
 .featured-button {
-  background-color: #4dbf00;
+  background-color: #ff1010;
   color: white;
-  padding: 10px 20px;
+  padding: 10px 30px;
   border-radius: 10px;
   border: none;
   outline: none;
+
 }
 
 .movie-list-container {
