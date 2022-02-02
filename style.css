@@ -102,7 +102,7 @@ body {
 }
 
 .featured-title {
-  width: 500px;
+  width: 190px;
 }
 
 .featured-desc {
@@ -164,7 +164,6 @@ body {
 }
 
 .movie-list-item-title {
-  background-color: #333;
   padding: 0 10px;
   font-size: 32px;
   font-weight: bold;
@@ -176,9 +175,8 @@ body {
 }
 
 .movie-list-item-desc {
-  background-color: #333;
   padding: 10px;
-  font-size: 14px;
+  font-size: 10px;
   position: absolute;
   top: 30%;
   left: 50px;
@@ -189,7 +187,7 @@ body {
 
 .movie-list-item-button {
   padding: 10px;
-  background-color: #4dbf00;
+  background-color: #ff1010;
   color: white;
   border-radius: 10px;
   outline: none;
